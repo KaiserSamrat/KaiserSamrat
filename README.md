@@ -1,8 +1,8 @@
-### Hi, I’m Kaise rSamrat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I’m Kaiser Samrat
+## MERN stack Web Developer
+- 👀 I’m interested in React
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me [Linkedin - Kaiser] (https://www.linkedin.com/in/kaiser-samrat-b47875145/)
 
 <!---
 KaiserSamrat/KaiserSamrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
